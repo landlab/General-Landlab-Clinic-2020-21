@@ -48,7 +48,7 @@ You have to be logged in to the Hub to access this panel.
 
 ## Links
 
-* [Landlab documentation](https://landlab.readthedocs.io/en/v2_dev/)
+* [Landlab Base Command](http://landlab.github.io/#/)
 
 
 ## Thank you!
