@@ -1,6 +1,6 @@
-# Penn State Landlab Clinic 2020
+# University of Texas Jackson School of Geosciences Landlab Clinic 2020
 
-A Landlab clinic held at Penn State on Wednesday January 22, 2020.
+A Landlab clinic held at UT on Thursday September 10, 2020.
 
 
 ## Instructors
@@ -10,25 +10,20 @@ A Landlab clinic held at Penn State on Wednesday January 22, 2020.
 
 ## Before the clinic 
 
-1. **Sign up for an account (see below)**: We'll do all of our
-   computational work on the [CSDMS JupyterHub](https://csdms.rc.colorado.edu).
-   This means that we won't have to spend time installing software
-   during the clinic.
-1. **Review the basics of working with Python and Jupyter Notebook**:
+1. **Change your password on the CSDMS JupyterHub**: Nicole should have emailed you with information on your username and temporary password on the CSDMS JupyterHub. Please change your temporary password [CSDMS JupyterHub](https://csdms.rc.colorado.edu/hub/change-password).
+2. **Review the basics of working with Python and Jupyter Notebook**:
    There are many online resources. Coding experience is not a
    prerequisite for this clinic and we will explain core concepts as
    we go along.
-1. **Background reading**: Read the
+3. **Background reading**: Read the
    [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html)
    open source paper about Landlab
 
 ## Venue
 
-Penn State Geology Building
+A zoom link to be provided.
 
 ## Agenda
-
-The clinic will be held on Wednesday January 22, 2020 from 10 am - 12 pm
 
 We will cover:
 
@@ -43,14 +38,6 @@ We will cover:
 * Laptop
 * Web browser
 * Coffee (optional, but recommended)
-
-
-## Get Started
-
-1. [Create an account](https://csdms.rc.colorado.edu/hub/signup) on the CSDMS JupyterHub
-2. Provide a username and password -- it can be whatever you like
-3. Wait for authorization -- this will happen the morning of the clinic
-4. [Get the clinic tutorials](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Fpsu-clinic-2020&urlpath=tree%2Fpsu-clinic-2020%2Fnotebooks%2Findex.ipynb&branch=master)
 
 
 ### Note to admins
