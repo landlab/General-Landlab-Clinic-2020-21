@@ -39,6 +39,9 @@ We will cover:
 * Web browser
 * Coffee (optional, but recommended)
 
+## Get Started
+
+* [Run the clinic tutorials](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2FUT_Landlab_Clinic&urlpath=tree%2FUT_Landlab_Clinic%2Fnotebooks%2Findex.ipynb&branch=master)
 
 ### Note to admins
 
