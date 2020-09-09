@@ -8,16 +8,12 @@ A Landlab clinic held at UT on Thursday September 10, 2020.
 * [Nicole Gasparini](https://sse.tulane.edu/eens/faculty/gasparini)
 
 
-## Before the clinic 
+## Background Reading 
 
-1. **Change your password on the CSDMS JupyterHub**: Nicole should have emailed you with information on your username and temporary password on the CSDMS JupyterHub. Please change your temporary password [CSDMS JupyterHub](https://csdms.rc.colorado.edu/hub/change-password).
-2. **Review the basics of working with Python and Jupyter Notebook**:
-   There are many online resources. Coding experience is not a
-   prerequisite for this clinic and we will explain core concepts as
-   we go along.
-3. **Background reading**: Read the
-   [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html)
-   open source paper about Landlab
+Two great papers to introduce you to Landlab:
+
+   [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html): an open source introductory paper about Landlab. 
+   [Barnhart et al., 2020](https://esurf.copernicus.org/articles/8/379/2020/): an open source paper about Landlab v2.0.
 
 ## Venue
 
