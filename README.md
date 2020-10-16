@@ -1,11 +1,10 @@
-# University of Texas Jackson School of Geosciences Landlab Clinic 2020
-
-A Landlab clinic held at UT on Thursday September 10, 2020.
+# Landlab Clinic - designed in 2020 to be given during 2020-21 Academic Year
 
 
 ## Instructors
 
 * [Nicole Gasparini](https://sse.tulane.edu/eens/faculty/gasparini)
+* [Mark Piper](https://instaar.colorado.edu/people/mark-piper/) helps make the magic happen.
 
 
 ## Background Reading 
